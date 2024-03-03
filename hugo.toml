@@ -1,7 +1,27 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kevinoneil.dev/'
 languageCode = 'en-us'
 title = 'Kevin ONeil'
-theme = 'hugo-developer-theme'
+theme = 'hugo-coder'
+
+[params]
+  author = 'Kevin ONeil'
+  info = 'Front End Developer'
+  description = "Kevin's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+[markup.highlight]
+style = "monokai"
+
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
 
 [params.plugins]
   # CSS Plugins
@@ -12,3 +32,9 @@ theme = 'hugo-developer-theme'
   URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"
   [[params.plugins.js]]
   URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/kevoneil/"

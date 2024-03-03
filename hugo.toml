@@ -1,15 +1,15 @@
 baseURL = 'https://kevinoneil.dev/'
 languageCode = 'en-us'
-title = 'Kevin ONeil'
+title = "Kevin O'Neil"
 theme = 'hugo-coder'
 
 [params]
-  author = 'Kevin ONeil'
+  author = "Kevin O'Neil"
   info = 'Front End Developer'
   description = "Kevin's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+  colorScheme = "dark"
 
 [markup.highlight]
 style = "monokai"

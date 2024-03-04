@@ -1,4 +1,4 @@
-baseURL = 'https://kevinoneil.dev/'
+baseURL = 'www.kevoneil.github.io'
 languageCode = 'en-us'
 title = "Kevin O'Neil"
 theme = 'hugo-coder'

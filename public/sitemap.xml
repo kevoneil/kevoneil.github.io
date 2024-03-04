@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kevinoneil.dev/about/</loc>
+    <loc>www.kevoneil.github.io/about/</loc>
   </url><url>
-    <loc>https://kevinoneil.dev/categories/</loc>
+    <loc>www.kevoneil.github.io/categories/</loc>
   </url><url>
-    <loc>https://kevinoneil.dev/</loc>
+    <loc>www.kevoneil.github.io/</loc>
   </url><url>
-    <loc>https://kevinoneil.dev/tags/</loc>
+    <loc>www.kevoneil.github.io/tags/</loc>
   </url>
 </urlset>
